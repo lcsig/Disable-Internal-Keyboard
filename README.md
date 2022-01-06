@@ -1,2 +1,3 @@
-# ikbdop
-Contains a simple shell program to enable or disable Internal Keyboard of a laptop in Linux.
+# Disable Internal Keyboards and Sensitive Keys
+
+Contains a simple python program to enable or disable internal keyboard and and the sensitive keys of a laptop in Linux.
